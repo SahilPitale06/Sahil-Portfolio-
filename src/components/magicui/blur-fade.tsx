@@ -3,7 +3,8 @@
 import { AnimatePresence, motion, useInView, Variants } from "framer-motion";
 import { useRef } from "react";
 
-type MarginType = number | `${number}px` | `${number}%`;
+// Simplify MarginType to string
+type MarginType = string;
 
 interface BlurFadeProps {
   children: React.ReactNode;
@@ -28,7 +29,7 @@ const BlurFade = ({
   delay = 0,
   yOffset = 6,
   inView = false,
-  inViewMargin = "-50px" as MarginType,
+  inViewMargin = "-50px",
   blur = "6px",
 }: BlurFadeProps) => {
   const ref = useRef(null);
