@@ -140,7 +140,7 @@ export default function Page() {
                   My Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  Check out my AI & ML Projects
+                  Check out my Data Science & ML Projects
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I've developed innovative solutions using cutting-edge AI
