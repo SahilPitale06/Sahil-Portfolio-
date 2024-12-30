@@ -347,7 +347,7 @@ export const DATA = {
     {
       title: "Fake News Detection",
       href: "https://github.com/SahilPitale06/Fake-News-Detection-.git",
-      dates: "2023",
+      dates: "2024",
       active: true,
       description:
         "Built a machine learning model using TF-IDF vectorization and Passive Aggressive Classifier to detect fake news from authentic news articles. The model processes news content using Natural Language Processing techniques and achieves high accuracy in classifying news authenticity, helping combat misinformation spread.",
