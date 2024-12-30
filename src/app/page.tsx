@@ -143,10 +143,11 @@ export default function Page() {
                   Check out my Data Science & ML Projects
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I've developed innovative solutions using cutting-edge AI
-                  technologies, from sentiment analysis to document verification
-                  systems. Each project showcases practical applications of
-                  machine learning in solving real-world challenges.
+                  I've created innovative solutions using advanced Data Science
+                  and Machine Learning and cutting-edge AI technologies, ranging
+                  from sentiment analysis to document verification systems. Each
+                  project demonstrates the practical application of these
+                  techniques to solve real-world problems
                 </p>
               </div>
             </div>
@@ -224,28 +225,21 @@ export default function Page() {
                 Let's Connect
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I'm a dedicated student with a strong foundation in AI/ML and
-                demonstrated expertise through various projects. My hands-on
-                experience includes successful implementations of machine
-                learning solutions, and I'm seeking opportunities to apply these
-                technical skills in a professional environment. I'm ready to
-                contribute innovative solutions to challenging problems.
+                I'm a dedicated student with a strong foundation in Data Science
+                and ML, demonstrated through various projects. With hands-on
+                experience in implementing ML solutions, I'm eager to apply my
+                skills in a professional environment and contribute innovative
+                solutions to complex challenges
               </p>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 <Link
-                  href="mailto:sahilpitale06@gmail.com"
+                  href="mailto:sp9328123456@gmail.com"
                   className="text-blue-500 hover:underline"
                 >
                   sp9328123456@gmail.com
-                </Link>{" "}
-                |{" "}
-                <Link
-                  href="https://www.linkedin.com/in/sahil-pitale-56a5681bb/"
-                  className="text-blue-500 hover:underline"
-                >
-                  LinkedIn Profile
-                </Link>{" "}
-                | Contact: +91 9359710712
+                </Link>
+                {" | "}
+                Contact: <span className="font-medium"> +91 9359710712</span>
               </p>
             </div>
           </BlurFade>

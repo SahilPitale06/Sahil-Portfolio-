@@ -1,4 +1,4 @@
-# AI/ML Portfolio - Sahil Pitale  
+# Data Science/ML Portfolio - Sahil Pitale  
 
 A modern, responsive portfolio website built with Next.js, designed to showcase AI and Machine Learning projects.  
 
@@ -59,16 +59,13 @@ Follow these steps to set up the project locally:
 
   ---
 
-## Open the site
-
-Once the development server is running, visit [http://localhost:3000](http://localhost:3000) in your browser to view the site.
 
 ---
 
 ## 📫 Contact  
 
 Feel free to reach out!  
-- **Email**: [sahilpitale06@gmail.com](mailto:sahilpitale06@gmail.com)  
+- **Email**: [sp9328123456@gmail.com](mailto:sp9328123456@gmail.com)  
 - **LinkedIn**: [Sahil Pitale](https://www.linkedin.com/in/sahil-pitale-56a5681bb/)
 
 
