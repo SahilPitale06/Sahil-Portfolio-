@@ -36,31 +36,28 @@ Follow these steps to set up the project locally:
    ```
 2. **Navigate to the project directory**
 
-  After cloning the repository, navigate into the project directory using the following command:
+   After cloning the repository, navigate into the project directory using the following command:
 
-  ```bash
+   ```bash
      cd portfolio
 
-  ```
+   ```
 3. **Install dependencies:**
 
-  ```bash
+   ```bash
     npm install  
 
-  ```
+   ```
 4. **Run the development server:**
 
-  ```bash
+   ```bash
     npm run dev  
     
-  ```
+   ```
 5.  **Open the site:**
-  Once the development server is running, visit [http://localhost:3000](http://localhost:3000) in your browser to view the site.
+    Once the development server is running, visit [http://localhost:3000](http://localhost:3000) in your browser to view the site.
 
   ---
-
-
----
 
 ## 📫 Contact  
 
