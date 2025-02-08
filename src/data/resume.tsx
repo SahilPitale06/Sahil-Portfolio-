@@ -12,7 +12,7 @@ export const DATA = {
     "Data Science enthusiast. Turning data into decisions through Machine Learning and AI",
   summary:
     "I'm an enthusiastic Information Technology student at Dr. Babasaheb Ambedkar Technological University, Maharashtra. My passion lies in exploring Data Science, Machine Learning, and Artificial Intelligence, where I transform data into meaningful insights. Currently focused on projects in Natural Language Processing, Machine Learning, Neural Networks, and Deep Learning, I bring fresh perspectives to problem-solving in these fields. I'm actively seeking opportunities to collaborate on innovative projects and stay current with the latest developments in Data Science, Machine Learning, and Artificial Intelligence. Let's connect and explore the possibilities in these exciting areas!",
-  avatarUrl: "/me3.jpeg",
+  avatarUrl: "/me3.jpg",
   skills: [
     "Python",
     "Jupyter Notebook",
